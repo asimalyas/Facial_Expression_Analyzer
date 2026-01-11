@@ -24,9 +24,9 @@ It can process live webcam feed, images, or videos to classify emotions and disp
 
 ## 🎥 Demo – Watch It in Action
 
-Click the thumbnail below to watch the **live demo** of the Facial Expression Analyzer on YouTube:
+Click the thumbnail below to watch the **live demo** of the Facial Expression Analyzer in action:
 
-[![Watch Demo](https://img.youtube.com/vi/01bKFDHlSxc/0.jpg)]([https://youtube.com/shorts/01bKFDHlSxc?si=IG3j6nAyJBrc48bL](https://youtube.com/shorts/e9olDasHyQA?si=1RP2xVgAi7a-Q7CF))
+[![Watch Demo](https://img.youtube.com/vi/e9olDasHyQA/0.jpg)](https://youtube.com/shorts/e9olDasHyQA?si=1RP2xVgAi7a-Q7CF)
 
 > 🎬 This is a YouTube Short showing real‑time emotion detection using your model!
 
