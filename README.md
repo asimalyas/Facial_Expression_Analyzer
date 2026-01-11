@@ -18,19 +18,19 @@ It can process live webcam feed, images, or videos to classify emotions and disp
 - Classroom engagement analysis  
 - Marketing & UX research  
 
-![Facial Expression Animation](https://media.giphy.com/media/3o6ZsXkJlVhMP3zjS8/giphy.gif)
 
 ---
 ---
 
-## 🎥 Live Demo
+## 🎥 Demo – Watch It in Action
 
-Check out the **live demo** of Facial Expression Analyzer in action!  
+Click the thumbnail below to watch the **live demo** of the Facial Expression Analyzer on YouTube:
 
-[![Watch Demo](https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg)](https://youtube.com/shorts/01bKFDHlSxc?si=IG3j6nAyJBrc48bL)  
+[![Watch Demo](https://img.youtube.com/vi/01bKFDHlSxc/0.jpg)](https://youtube.com/shorts/01bKFDHlSxc?si=IG3j6nAyJBrc48bL)
 
-> Click the thumbnail to watch the demo on YouTube or Instagram Reel.
+> 🎬 This is a YouTube Short showing real‑time emotion detection using your model!
 
+---
 
 ## 🧩 Model Details
 
