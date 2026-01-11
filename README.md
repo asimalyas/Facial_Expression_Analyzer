@@ -1,0 +1,2 @@
+# Facial_Expression_Analyzer
+Real-Time Facial Emotion Detection System built using Python, OpenCV, and Deep Learning (CNN). This project detects and classifies human facial emotions from a live webcam feed in real time.  The system uses Haar Cascade for face detection and a trained Convolutional Neural Network for emotion classification. Detected emotions are displayed instantly on the video stream with bounding boxes.
