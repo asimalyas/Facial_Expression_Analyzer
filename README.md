@@ -61,21 +61,6 @@ Facial_Expression_Analyzer-main/
 
 ---
 
-## 🚀 Installation
-
-1. Clone the repository:  
-git clone https://github.com/yourusername/Facial_Expression_Analyzer.git  
-cd Facial_Expression_Analyzer-main  
-
-2. Create and activate a virtual environment:  
-python -m venv venv  
-# Windows: venv\Scripts\activate  
-# Linux/Mac: source venv/bin/activate  
-
-3. Install dependencies:  
-pip install -r requirements.txt  
-
----
 
 ## 🎬 Usage
 
@@ -124,17 +109,9 @@ python main.py --video path_to_video.mp4
 
 ---
 
-## 📜 License
 
-MIT License © 2026 [Your Name]  
 
----
-
-## 🔗 Connect
-
-- [LinkedIn](https://www.linkedin.com/in/yourprofile)  
-- [GitHub](https://github.com/yourusername)  
-- [Portfolio](https://yourportfolio.com)  
+ 
 
 ---
 
